@@ -1,4 +1,4 @@
-### S.O.L.I.D com ChatGPT
+# S.O.L.I.D com ChatGPT
 
 Decidi perguntar ao ChatGPT como seria um código para exibir uma mensagem de "Parabéns" utilizando S.O.L.I.D.
 
