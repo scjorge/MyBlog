@@ -212,7 +212,7 @@ nome_1 nome_2 nome_3
 ```
 <br>
 
-Agora é aqui que está o 'pulo do gato', se criarmos um argumento que recebe 2 estrelas (**kwargs) iremos receber a chave e os valores. Dentro de uma função, cada chave ira servir como um argumento nomeado para a função. Legal né? 
+Agora é aqui que está o 'pulo do gato', se passamos como argumento nossa lista de nomes com 2 estrelas, iremos receber a chave e os valores na função, cada chave ira servir como um argumento nomeado para a função. Legal né? 
 
 ```python
 def recebe_nomes(nome_1, nome_2, nome_3):
@@ -327,9 +327,11 @@ saída:
 ```
 <br>
 
-Bom isso foi o desempacotamento e as expressões *args e **kwargs que vemos por ai. 
+Bom isso foi o desempacotamento e as expressões *args e **kwargs que vemos por aí.
 
 Quero te lembrar que esses nomes são uma convenção, funcionária com qualquer nome. Você não é obrigado a usar as palavras args e kwargs para funcionar. Mas, se o planeta escreve assim. Vamos escrever também certo? Vamos manter o padrão. 
+ 
+Por curiosidade, o nome "args" vem de "arguments" (argumentos), e "kwargs" vem de "known arguments" (argumentos conhecidos)
 
 E é isso! Obrigado por chegar até aqui 😉
 
