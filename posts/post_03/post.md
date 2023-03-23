@@ -329,6 +329,8 @@ saída:
 
 Bom isso foi o desempacotamento e as expressões *args e **kwargs que vemos por aí.
 
+## Considerações
+
 Quero te lembrar que esses nomes são uma convenção, funcionária com qualquer nome. Você não é obrigado a usar as palavras args e kwargs para funcionar. Mas, se o planeta escreve assim. Vamos escrever também certo? Vamos manter o padrão. 
  
 Por curiosidade, o nome "args" vem de "arguments" (argumentos), e "kwargs" vem de "known arguments" (argumentos conhecidos)
