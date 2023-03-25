@@ -1,10 +1,9 @@
 
 <img align="right" src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/python-original.svg" width='200'/>
 
+# Simples é melhor que complexo
 
-
-
-# Boas vindas ao meu blog
+## Boas vindas ao meu blog
 
 Esse um projeto criado por mim para difundir o conhecimento na linguagem Python de forma aberta e gratuita. 
 
