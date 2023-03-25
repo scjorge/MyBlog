@@ -11,6 +11,8 @@ Nesse repositório se encontram-se códigos, imagens, e o conteúdo dos Posts:
 
 https://dev.to/scjorge
 
+<br>
+
 ## Sumário
 
 - [Post 01 - S.O.L.I.D com ChatGPT](https://dev.to/scjorge/solid-com-chatgpt-25de)
