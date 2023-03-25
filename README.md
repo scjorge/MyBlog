@@ -1,4 +1,9 @@
 
+<img align="right" src="https://raw.githubusercontent.com/scjorge/scjorge/main/assets/icons/python-original.svg" width='200'/>
+
+
+
+
 # Boas vindas ao meu blog
 
 Esse um projeto criado por mim para difundir o conhecimento na linguagem Python de forma aberta e gratuita. 
@@ -9,7 +14,7 @@ Esse um projeto criado por mim para difundir o conhecimento na linguagem Python 
 
 Nesse repositório se encontram-se códigos, imagens, e o conteúdo dos Posts:
 
-https://dev.to/scjorge
+link: https://dev.to/scjorge
 
 <br>
 
